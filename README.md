@@ -1,5 +1,4 @@
-# Hemoglobin-Analysis-iOS
-iOS application for camera-based hemoglobin analysis developed with Swift and SwiftUI as part of my Bachelor's thesis.
+
 # Hemoglobin Analysis iOS App
 
 An iOS application for camera-based analysis and visualization of
